@@ -13,7 +13,7 @@ A modern and responsive **Event Management Website** built using **HTML, CSS, an
 
 ## 🚀 Live Demo
 
-👉 **https://anurag-rathod.github.io/event-management-website-/**
+👉 **https://anurag-rathod.github.io/Event-Management-Website/**
 
 ---
 
