@@ -96,8 +96,6 @@ Simply open **index.html** in your browser.
 
 ## 📸 Project Preview
 
-> Upload your homepage screenshot as **screenshot.png** in the project root.
-
 ```md
 ![Project Preview](screenshot.png)
 ```
@@ -126,7 +124,3 @@ https://github.com/Anurag-Rathod
 https://anurag-rathod.github.io/event-management-website-/
 
 ---
-
-## 📜 License
-
-This project is created for learning and portfolio purposes.
