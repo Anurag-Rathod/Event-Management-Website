@@ -96,9 +96,7 @@ Simply open **index.html** in your browser.
 
 ## 📸 Project Preview
 
-```md
 ![Project Preview](screenshot.png)
-```
 
 ---
 
