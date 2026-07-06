@@ -119,6 +119,6 @@ Simply open **index.html** in your browser.
 https://github.com/Anurag-Rathod
 
 🌐 Live Website  
-https://anurag-rathod.github.io/event-management-website-/
+https://anurag-rathod.github.io/Event-Management-Website/
 
 ---
