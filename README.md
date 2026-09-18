@@ -74,7 +74,7 @@ Event-Management-Website/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Anurag-Rathod/event-management-website-.git
+git clone https://github.com/Anurag-Rathod/Event-Management-Website.git
 ```
 
 ### 2️⃣ Open Project Folder
@@ -89,12 +89,6 @@ Simply open **index.html** in your browser.
 
 ---
 
-## 📸 Project Preview
-
-![Project Preview](screenshot.png)
-
----
-
 ## 🌟 Future Improvements
 
 - 📅 Online Event Booking
@@ -103,5 +97,3 @@ Simply open **index.html** in your browser.
 - 📧 Email Notifications
 - 📍 Google Maps Integration
 - 🗂 Admin Dashboard
-
----
